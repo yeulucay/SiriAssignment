@@ -16,10 +16,21 @@ Any of the 3rd party libraries aren't used.
 
 ### Project
 
+
 Main project Application class is under 
 ```
 src/com/apple/siri/assignment
 ```
+
+Main Appplication class calls a test method and tests all the inputs.
+You will find the results in the output.
+
+Also, a test class is created under:
+```
+src/com/apple/siri/tests
+```
+This test method compares the expected count of concept
+and existing one.
 
 Project has 2 module
 - ConceptEngine
